@@ -8,4 +8,4 @@ Quote Genetator uses front-end technology like HTML,CSS and Javascript and the R
 [Here](https://aayodipe.github.io/Quote-Generator/)  is the final Project
 
 
-![ScreenShoot of Quote-Generator](https://aayodipe.github.io/Quote-Generator/)
+![](https://i.imgur.com/faOpZzg.png)
